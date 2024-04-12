@@ -1,0 +1,43 @@
+/* Setting background color and text color for the body */
+body {
+    background: #5b5643; /* Dark brown background */
+    color: white; /* White text color */
+}
+
+/* Styling for main headings */
+h1 {
+    color: #8bc4ff; /* Light blue color */
+    font-size: 50px; /* Large font size */
+}
+
+/* Styling for spans */
+span {
+    color: yellow; /* Yellow text color */
+}
+
+/* Styling for separating line */
+.line {
+    padding-bottom: 15px; /* Adding space below the line */
+    border-bottom: solid white 1.5px; /* White solid line */
+}
+
+/* Styling for subheadings */
+h2 {
+    color: #8bc4ff; /* Light blue color */
+}
+
+/* Styling for links */
+a {
+    color: red; /* Red link color */
+}
+
+/* Styling for happy mood image */
+.img-happy {
+    width: 200px; /* Width of the image */
+    height: 301px; /* Height of the image */
+}
+
+/* Styling for logos */
+.logo {
+    border: red solid 3px; /* Red solid border with 3px width */
+}
